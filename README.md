@@ -1,7 +1,3 @@
-# 💫 About Me:
-
-<h2 align="left">Hi 👋! My name is Uttam and I'm a Computer Science & Engineering undergraduate with a strong foundation in software architecture, mobile development, and clean code principles.</h2></br> I specialize in building robust, income-focused applications—primarily using Flutter—alongside tools like Supabase, Firebase, and a solid grip on Python, C, and C++.<br><br>Currently interning at **Pragma Infotech Pvt. Ltd.**, I actively take on freelance and paid projects that demand well-structured, scalable solutions.<br><br>📌 **Highlights**:<br>- **doc_sync** – My best and most ambitious project to date, focusing on real-time document collaboration.<br>- **case_sync** – My first end-to-end project, where I learned the art of practical product delivery.<br>- Markdown-first documentation: Every project I work on is meticulously planned with internal docs inside the codebase to support long-term maintainability and developer onboarding.<br>- Fast learner, highly adaptable across languages and frameworks.<br><br>While I haven’t contributed to open-source yet, I’m passionate about clean architecture and looking forward to contributing to impactful projects.<br><br>> I believe every great product starts with thoughtful planning and earns its place through precision and consistency.<br>
-
 ###
 
 <div align="center">
