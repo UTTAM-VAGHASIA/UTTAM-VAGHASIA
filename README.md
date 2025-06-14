@@ -16,11 +16,11 @@
 ### Connect with me:
 
 <div align="left">
-  <a href="https://www.instagram.com/uttam.0410/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  /></a>
-  <a href="https://discordapp.com/users/uv0410"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="32" alt="discord logo"  /></a>
-  <a href="mailto:the.uttam.vaghasia@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/uttam-vaghasia/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  /></a>
-  <a href="https://wa.link/9na6em"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="32" alt="whatsapp logo"  /></a>
+  <a target="_blank" target="_blank" href="https://www.instagram.com/uttam.0410/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  /></a>
+  <a target="_blank" target="_blank" href="https://discordapp.com/users/uv0410"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="32" alt="discord logo"  /></a>
+  <a target="_blank" target="_blank" href="mailto:the.uttam.vaghasia@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  /></a>
+  <a target="_blank" target="_blank" href="https://www.linkedin.com/in/uttam-vaghasia/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  /></a>
+  <a target="_blank" href="https://wa.link/9na6em"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="32" alt="whatsapp logo"  /></a>
 </div>
 
 ### Technology & Tools:
@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/dbpuki28q5vvz3lbrn70vl45u">
+  <a target="_blank" href="https://open.spotify.com/user/dbpuki28q5vvz3lbrn70vl45u">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=dbpuki28q5vvz3lbrn70vl45u&count=6&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
