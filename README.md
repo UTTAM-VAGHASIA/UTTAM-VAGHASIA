@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="180" src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/refs/heads/main/.github/assets/ultra-fast-typing-cat.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/refs/heads/main/.github/assets/ultra-fast-typing-cat.gif"  />
 
 ###
 
-#### Connect with me:
+### Connect with me:
 
 <div align="left">
   <a href="https://www.instagram.com/uttam.0410/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  /></a>
@@ -23,7 +23,7 @@
   <a href="https://wa.link/9na6em"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="32" alt="whatsapp logo"  /></a>
 </div>
 
-#### Technology & Tools:
+### Technology & Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
