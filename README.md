@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
+<img align="right" height="180" src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/refs/heads/main/.github/assets/ultra-fast-typing-cat.gif"  />
 
 ###
 
