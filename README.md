@@ -43,6 +43,13 @@ const uttam = {
   <img src="https://github-profile-trophy.vercel.app/?username=UTTAM-VAGHASIA&theme=tokyonight&no-frame=false&column=8&margin-w=5&margin-h=5" />
 </div>
 
+<!-- Metrics -->
+## 🧠 GitHub Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/github-metrics.svg" />
+</div>
+
 ## ⚡ Tech Stack
 
 ### Languages
