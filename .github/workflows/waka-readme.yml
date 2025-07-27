@@ -39,7 +39,7 @@ jobs:
           TIMEZONE: "Asia/Kolkata"
           
           # Custom Bar Characters (Enhanced visuals)
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "1"
           
           # Percentile and Statistics
           SHOW_PERCENT: "True"
