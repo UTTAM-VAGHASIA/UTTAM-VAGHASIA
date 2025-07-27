@@ -39,6 +39,10 @@ const uttam = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=UTTAM-VAGHASIA&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UTTAM-VAGHASIA&theme=tokyonight&no-frame=false&column=8&margin-w=5&margin-h=5" />
+</div>
+
 ## ⚡ Tech Stack
 
 ### Languages

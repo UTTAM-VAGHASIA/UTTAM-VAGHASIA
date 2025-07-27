@@ -25,3 +25,28 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
           SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_SHORT_INFO: "True"
+          
+          # Bar Graph Customization
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_COMMIT_GRAPH: "True"
+          
+          # Display Settings
+          LOCALE: "en"
+          COMMIT_BY_ME: "True"
+          TIMEZONE: "Asia/Kolkata"
+          
+          # Custom Bar Characters (Enhanced visuals)
+          SYMBOL_VERSION: "2"
+          
+          # Percentile and Statistics
+          SHOW_PERCENT: "True"
+          SHOW_TIME: "True"
+          
+          # Language and Project Limits
+          LANGUAGE_COUNT: "10"
+          PROJECT_COUNT: "8"
+          OS_COUNT: "3"
+          EDITOR_COUNT: "3"
