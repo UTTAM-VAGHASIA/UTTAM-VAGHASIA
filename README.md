@@ -1,81 +1,124 @@
-###
+# Hi there, I'm Uttam Vaghasia! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UTTAM-VAGHASIA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UTTAM-VAGHASIA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=UTTAM-VAGHASIA&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UTTAM-VAGHASIA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web%2FApp+Developer+%F0%9F%9A%80;Currently+juggling+3+projects+and+0+deadlines;Flutter+is+peace.;Python+is+poetry.;JS+is...+tolerated.;AI%2FML+Explorer+%F0%9F%A4%96;Always+Learning+Something+New(Except+MERN+%F0%9F%A4%AE)!" alt="Typing SVG" />
 </div>
-
-###
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/refs/heads/main/.github/assets/ultra-fast-typing-cat.gif"  />
-
-###
-
-### Connect with me:
-
-<div align="left">
-  <a target="blank" href="https://www.instagram.com/uttam.0410/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  /></a>
-  <a target="blank" href="https://discordapp.com/users/uv0410"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="32" alt="discord logo"  /></a>
-  <a target="blank" href="mailto:the.uttam.vaghasia@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  /></a>
-  <a target="blank" href="https://www.linkedin.com/in/uttam-vaghasia/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  /></a>
-  <a target="blank" href="https://wa.link/9na6em"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="32" alt="whatsapp logo"  /></a>
-</div>
-
-### Technology & Tools:
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32" alt="numpy logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="flutter logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="32" alt="dart logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="tensorflow logo"  />
-  <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="32" alt="chrome logo"  />
-</div>
-
-###
-
-<br />
-
-<img src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
-  <a target="blank" href="https://open.spotify.com/user/dbpuki28q5vvz3lbrn70vl45u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dbpuki28q5vvz3lbrn70vl45u&count=6&unique=true" alt="Spotify recently played"  />
+  <img src="https://komarev.com/ghpvc/?username=UTTAM-VAGHASIA&style=for-the-badge&color=00D4FF&labelColor=1a1a1a" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/UTTAM-VAGHASIA?style=for-the-badge&color=00D4FF&labelColor=1a1a1a" alt="GitHub Followers"/>
+</div>
+
+---
+
+## 🚀 About Me
+
+```typescript
+const uttam = {
+    location: "Surat, Gujarat, India 🇮🇳",
+    role: "Full Stack Web/App Developer",
+    passions: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
+    currentFocus: "Building scalable applications with Python & Flutter",
+    funFact: "I debug with print() and I'm not ashamed! 😄",
+    motto: "Code, Learn, Repeat 🔄"
+};
+```
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UTTAM-VAGHASIA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UTTAM-VAGHASIA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UTTAM-VAGHASIA&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UTTAM-VAGHASIA&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+## ⚡ Tech Stack
+
+### Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,html,css,js,php,sql" />
+</div>
+
+### Frameworks & Libraries
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,pytorch,tensorflow,fastapi,flask,django," />
+</div>
+
+### Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,docker,linux,postgres" />
+</div>
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+```text
+No activity tracked yet. Setting up WakaTime...
+```
+<!--END_SECTION:waka-->
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UTTAM-VAGHASIA&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</div>
+
+## 🎯 Current Goals
+
+- 🔭 Working on **Many problems simultaneously**
+- 🌱 Learning **Any topic I encounter in my day-to-day life in one night**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Python, Flutter, or anything tech-related - 69% of the time I will be wrong.**
+- ⚡ Fun fact: **I think debugging is like being a detective in a crime movie where you're also the murderer**
+
+## 📱 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/uttam-vaghasia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:the.uttam.vaghasia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/uttam.0410/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discordapp.com/users/uv0410" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://wa.link/9na6em" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
-###
-
+## 💡
 <div align="center">
-  <img src="https://profile-counter.glitch.me/UTTAM-VAGHASIA/count.svg?"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-###
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/output/snake.svg" alt="Snake animation" />
+</div>
+
+## ☕ Support My Work
+
+If you like what I do, consider buying me a coffee!
+
+<div align="left">
+  <a href="https://paypal.me/theUttamVaghasia" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UTTAM-VAGHASIA&icon=10&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/theUttamVaghasia)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+</div>
