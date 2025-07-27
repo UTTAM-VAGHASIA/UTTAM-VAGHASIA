@@ -59,9 +59,77 @@ const uttam = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.6%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 484.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 164 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
 ```text
-No activity tracked yet. Setting up WakaTime...
+🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+🌆 Daytime                79 commits          ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌃 Evening                79 commits          ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌙 Night                  41 commits          █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
 ```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Wednesday                20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Thursday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Friday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Saturday                 52 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+Sunday                   71 commits          █████████░░░░░░░░░░░░░░░░   34.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Dart** 
+
+```text
+Dart                     6 repos             █████████████████░░░░░░░░   66.67 % 
+Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C                        1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/07/2025 12:56:26 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
