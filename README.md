@@ -47,7 +47,7 @@ const uttam = {
 ## 🧠 GitHub Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/github-metrics.svg" />
 </div>
 
 ## ⚡ Tech Stack
