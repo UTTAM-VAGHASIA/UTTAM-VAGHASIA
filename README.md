@@ -46,9 +46,9 @@ const uttam = {
 <!-- Metrics -->
 ## 🧠 GitHub Metrics
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/github-metrics.svg" />
-</div>
+<picture>
+  <img src="github-metrics.svg" alt="Metrics">
+</picture>
 
 ## ⚡ Tech Stack
 
@@ -183,7 +183,7 @@ C                        1 repo              ███░░░░░░░░�
 
 ## ☕ Support My Work
 
-If you like what I do, consider buying me a coffee!
+If you find my projects helpful and would like to support my open-source efforts, you can buy me a coffee here:
 
 <div align="left">
   <a href="https://paypal.me/theUttamVaghasia" target="_blank">
