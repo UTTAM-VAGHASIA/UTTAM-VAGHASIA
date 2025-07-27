@@ -143,11 +143,6 @@ C                        1 repo              ███░░░░░░░░�
  Last Updated on 27/07/2025 17:11:21 UTC
 <!--END_SECTION:waka-->
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UTTAM-VAGHASIA&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
 ## 🎯 Current Goals
 
 - 🔭 Working on **Many problems simultaneously**
