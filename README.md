@@ -70,15 +70,13 @@ const uttam = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2039%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-688.25%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,45 +84,6 @@ const uttam = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                239 commits         ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-🌆 Daytime                361 commits         █████████░░░░░░░░░░░░░░░░   35.78 % 
-🌃 Evening                240 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-🌙 Night                  169 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   140 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Tuesday                  137 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Wednesday                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Friday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Saturday                 148 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   216 commits         █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -142,7 +101,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 12:27:05 UTC
+ Last Updated on 03/01/2026 01:02:19 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
