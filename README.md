@@ -70,15 +70,13 @@ const uttam = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%201%20min-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 819 Contributions in the Year 2026
+> 🏆 820 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,20 +87,20 @@ const uttam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                495 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-🌆 Daytime                1003 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌃 Evening                698 commits         ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+🌞 Morning                495 commits         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌆 Daytime                1003 commits        ██████████░░░░░░░░░░░░░░░   39.63 % 
+🌃 Evening                699 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
 🌙 Night                  334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  659 commits         ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Tuesday                  659 commits         ███████░░░░░░░░░░░░░░░░░░   26.04 % 
 Wednesday                254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
 Thursday                 316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Friday                   258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Saturday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+Friday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 Sunday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 ```
 
@@ -142,7 +140,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 13:21:30 UTC
+ Last Updated on 25/07/2026 01:54:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
