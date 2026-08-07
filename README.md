@@ -70,13 +70,17 @@ const uttam = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%2038%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,020 Contributions in the Year 2026
+> 🏆 1,021 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,6 +88,78 @@ const uttam = {
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                535 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+🌆 Daytime                1056 commits        ██████████░░░░░░░░░░░░░░░   38.64 % 
+🌃 Evening                769 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+🌙 Night                  373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Tuesday                  683 commits         ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Thursday                 334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Friday                   298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+Saturday                 374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Sunday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 5 hrs 59 mins       ████████████░░░░░░░░░░░░░   46.27 % 
+Dart                     2 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+TypeScript               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+
+🔥 Editors: 
+Claude Code              12 hrs 50 mins      █████████████████████████   99.10 % 
+Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+
+🐱‍💻 Projects: 
+ag-view-360              5 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
+glint                    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+nudge-systems            2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+old-money                1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+purseme                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+
+💻 Operating System: 
+Windows                  12 hrs 57 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 57 mins (100.0%)
+
+✍️ 20,649 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 630,529,993 Input Tokens, 2,206,776 Output Tokens
+
+💵 $3260.76 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 105 AI Prompts
+
+Opus                     19,998 lines        ████████████████████████░   95.46 % 
+Sonnet                   952 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,614 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -101,7 +177,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:13:04 UTC
+ Last Updated on 07/08/2026 12:43:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
