@@ -70,17 +70,13 @@ const uttam = {
 ## 📈 Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2015%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 1,014 Contributions in the Year 2026
+> 🏆 1,020 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,86 +84,14 @@ const uttam = {
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                534 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-🌆 Daytime                1056 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌃 Evening                764 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-🌙 Night                  373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   331 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Tuesday                  683 commits         ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Wednesday                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Thursday                 329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Friday                   297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Saturday                 374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Sunday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Markdown                 5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.77 % 
-Dart                     2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-TypeScript               2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-JavaScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-
-🔥 Editors: 
-Claude Code              14 hrs 48 mins      █████████████████████████   99.22 % 
-Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-
-🐱‍💻 Projects: 
-ag-view-360              8 hrs 35 mins       ██████████████░░░░░░░░░░░   57.50 % 
-glint                    3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-nudge-systems            2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-purseme                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-finance-tracker          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-💻 Operating System: 
-Windows                  14 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 55 mins (100.0%)
-
-✍️ 23,927 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 788,552,537 Input Tokens, 2,847,714 Output Tokens
-
-💵 $3742.71 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 98 AI Prompts
-
-Opus                     20,479 lines        █████████████████████░░░░   84.48 % 
-Sonnet                   3,762 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,258 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     14 repos            █████████░░░░░░░░░░░░░░░░   36.84 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Dart                     14 repos            █████████░░░░░░░░░░░░░░░░   35.90 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
@@ -177,7 +101,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 13:45:26 UTC
+ Last Updated on 07/08/2026 02:13:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
