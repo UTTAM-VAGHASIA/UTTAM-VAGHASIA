@@ -80,7 +80,7 @@ const uttam = {
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,289 Contributions in the Year 2026
+> 🏆 1,290 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,18 +91,18 @@ const uttam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                629 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-🌆 Daytime                1381 commits        ██████████░░░░░░░░░░░░░░░   38.54 % 
-🌃 Evening                924 commits         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-🌙 Night                  649 commits         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+🌞 Morning                629 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+🌆 Daytime                1381 commits        ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌃 Evening                924 commits         ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+🌙 Night                  650 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   439 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Tuesday                  915 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-Wednesday                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Tuesday                  916 commits         ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+Wednesday                379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Thursday                 380 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 Friday                   400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 Saturday                 483 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
 Sunday                   587 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
@@ -115,22 +115,48 @@ Sunday                   587 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
+Markdown                 1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+JavaScript               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Dart                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+PHP                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              11 hrs 24 mins      █████████████████████████   98.16 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+old-money                6 hrs 21 mins       ██████████████░░░░░░░░░░░   54.66 % 
+purseme                  2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+nudge-systems            1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+HarnessAgents            30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+uttam                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 11 hrs 37 mins (100.0%)
+
+✍️ 12,200 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 6,218,629 Input Tokens, 927,584 Output Tokens
+
+💵 $226.36 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 79 AI Prompts
+
+Opus                     12,375 lines        █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,313 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -150,7 +176,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 18:31:49 UTC
+ Last Updated on 01/09/2026 02:49:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
