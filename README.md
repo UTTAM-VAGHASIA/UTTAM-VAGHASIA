@@ -80,7 +80,7 @@ const uttam = {
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,306 Contributions in the Year 2026
+> 🏆 1,307 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +91,21 @@ const uttam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                574 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌆 Daytime                1180 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌃 Evening                822 commits         ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+🌞 Morning                574 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+🌆 Daytime                1180 commits        ██████████░░░░░░░░░░░░░░░   39.06 % 
+🌃 Evening                823 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
 🌙 Night                  444 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   367 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Tuesday                  732 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Tuesday                  732 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Wednesday                327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 Thursday                 361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Friday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Saturday                 412 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Sunday                   485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Friday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Saturday                 413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Sunday                   485 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
@@ -115,47 +115,47 @@ Sunday                   485 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       ████████████░░░░░░░░░░░░░   46.36 % 
-Dart                     1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
-JavaScript               56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Markdown                 51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-PHP                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Python                   1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+JavaScript               56 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+Markdown                 51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+PHP                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Dart                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 9 mins        █████████████████████████   98.77 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Claude Code              3 hrs 36 mins       █████████████████████████   98.20 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🐱‍💻 Projects: 
-old-money                6 hrs 51 mins       ████████████████████████░   94.62 % 
-nudge-systems            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-glint                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-uttam                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+old-money                3 hrs 17 mins       ██████████████████████░░░   89.39 % 
+nudge-systems            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+glint                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+uttam                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Windows                  7 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 15 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 40 mins (100.0%)
 
-✍️ 8,202 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,359 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,220,418 Input Tokens, 660,315 Output Tokens
+🔤 2,497,573 Input Tokens, 323,568 Output Tokens
 
-💵 $162.22 Estimated AI Cost This Week
+💵 $62.65 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 49 AI Prompts
+🧠 7 AI Sessions, 34 AI Prompts
 
-Opus                     8,274 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,359 lines         █████████████████████████   100.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,759 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 1,814 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 14:19:07 UTC
+ Last Updated on 06/09/2026 02:07:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
