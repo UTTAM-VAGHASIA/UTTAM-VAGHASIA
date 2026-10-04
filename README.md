@@ -80,7 +80,7 @@ const uttam = {
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,717 Contributions in the Year 2026
+> 🏆 1,718 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,20 +91,20 @@ const uttam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                692 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-🌆 Daytime                1617 commits        ██████████░░░░░░░░░░░░░░░   38.34 % 
-🌃 Evening                1133 commits        ███████░░░░░░░░░░░░░░░░░░   26.86 % 
-🌙 Night                  776 commits         █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌞 Morning                692 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+🌆 Daytime                1617 commits        ██████████░░░░░░░░░░░░░░░   38.33 % 
+🌃 Evening                1134 commits        ███████░░░░░░░░░░░░░░░░░░   26.88 % 
+🌙 Night                  776 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Monday                   584 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 Tuesday                  936 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
 Wednesday                521 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
 Thursday                 515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Friday                   492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Saturday                 576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Saturday                 577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 Sunday                   594 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 ```
 
@@ -115,51 +115,51 @@ Sunday                   594 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 20 hrs 26 mins      ████████████░░░░░░░░░░░░░   48.60 % 
-Dart                     12 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   30.23 % 
-Python                   2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Other                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-PHP                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Markdown                 20 hrs 37 mins      ███████████░░░░░░░░░░░░░░   45.53 % 
+Dart                     13 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   30.61 % 
+Python                   2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Other                    2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+PHP                      1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-Claude Code              41 hrs 21 mins      █████████████████████████   98.32 % 
-VS Code                  26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Cursor                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Claude Code              44 hrs 27 mins      █████████████████████████   98.13 % 
+VS Code                  35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Cursor                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-appstein                 30 hrs 48 mins      ██████████████████░░░░░░░   73.24 % 
-purseme                  4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-fluttercraft             1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-uttam                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-purseme-admin            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+appstein                 35 hrs 55 mins      ████████████████████░░░░░   79.28 % 
+purseme                  2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+fluttercraft             1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+uttam                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+purseme-admin            1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Windows                  42 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  45 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 hrs 49 mins (99.43%)
+⏱ AI Coding Time: 45 hrs 2 mins (99.43%)
 
-✍️ 116,244 lines written by AI, 3 lines written by hand (100.0% AI-written)
+✍️ 134,790 lines written by AI, 4 lines written by hand (100.0% AI-written)
 
-🔤 38,543,848 Input Tokens, 5,655,797 Output Tokens
+🔤 43,105,477 Input Tokens, 6,384,960 Output Tokens
 
-💵 $496.83 Estimated AI Cost This Week
+💵 $563.53 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 385 AI Prompts
+🧠 19 AI Sessions, 424 AI Prompts
 
-Opus                     73,076 lines        ████████████████░░░░░░░░░   62.11 % 
-Sonnet                   41,111 lines        █████████░░░░░░░░░░░░░░░░   34.94 % 
-Haiku                    3,464 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Opus                     85,842 lines        ████████████████░░░░░░░░░   63.01 % 
+Sonnet                   46,939 lines        █████████░░░░░░░░░░░░░░░░   34.45 % 
+Haiku                    3,464 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,573 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
+📚 Verbose Prompter — average 4,710 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -180,7 +180,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 15:29:38 UTC
+ Last Updated on 04/10/2026 03:34:54 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
