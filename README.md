@@ -80,7 +80,7 @@ const uttam = {
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,816 Contributions in the Year 2026
+> 🏆 1,817 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +91,21 @@ const uttam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                712 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-🌆 Daytime                1661 commits        ██████████░░░░░░░░░░░░░░░   38.53 % 
-🌃 Evening                1161 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+🌞 Morning                712 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                1661 commits        ██████████░░░░░░░░░░░░░░░   38.52 % 
+🌃 Evening                1162 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
 🌙 Night                  777 commits         █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Tuesday                  998 commits         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Wednesday                525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Thursday                 515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Monday                   590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Tuesday                  998 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Wednesday                526 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Thursday                 515 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 Friday                   492 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
 Saturday                 595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Sunday                   596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Sunday                   596 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
 ```
 
 
@@ -115,50 +115,50 @@ Sunday                   596 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 24 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   41.31 % 
-Dart                     19 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Python                   3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Other                    2 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-YAML                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Markdown                 19 hrs 51 mins      ██████████░░░░░░░░░░░░░░░   38.41 % 
+Dart                     16 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   31.52 % 
+Python                   3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Other                    2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+YAML                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Claude Code              59 hrs 30 mins      █████████████████████████   98.93 % 
-VS Code                  38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Claude Code              51 hrs 12 mins      █████████████████████████   99.02 % 
+VS Code                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-appstein                 48 hrs 4 mins       ████████████████████░░░░░   79.92 % 
-purseme                  2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-old-money                1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-uttam                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-ag-view-360              1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+appstein                 38 hrs 35 mins      ███████████████████░░░░░░   74.60 % 
+ag-view-360              4 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+old-money                1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+uttam                    1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+jal-aqua                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  60 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  51 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 59 hrs 52 mins (99.53%)
+⏱ AI Coding Time: 51 hrs 29 mins (99.55%)
 
-✍️ 166,284 lines written by AI, 17 lines written by hand (99.99% AI-written)
+✍️ 142,373 lines written by AI, 15 lines written by hand (99.99% AI-written)
 
-🔤 54,583,411 Input Tokens, 8,264,088 Output Tokens
+🔤 52,427,509 Input Tokens, 6,779,727 Output Tokens
 
-💵 $736.73 Estimated AI Cost This Week
+💵 $652.42 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 538 AI Prompts
+🧠 26 AI Sessions, 480 AI Prompts
 
-Opus                     111,744 lines       █████████████████░░░░░░░░   66.21 % 
-Sonnet                   53,568 lines        ████████░░░░░░░░░░░░░░░░░   31.74 % 
-Haiku                    3,464 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Opus                     99,369 lines        █████████████████░░░░░░░░   68.78 % 
+Sonnet                   44,842 lines        ████████░░░░░░░░░░░░░░░░░   31.04 % 
+Haiku                    266 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 4,750 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
+📚 Verbose Prompter — average 4,682 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -179,7 +179,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 18:13:24 UTC
+ Last Updated on 08/10/2026 03:45:47 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
