@@ -74,13 +74,13 @@ const uttam = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-429%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 2,115 Contributions in the Year 2026
+> 🏆 2,116 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +91,21 @@ const uttam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                957 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-🌆 Daytime                2596 commits        █████████░░░░░░░░░░░░░░░░   36.66 % 
-🌃 Evening                1787 commits        ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-🌙 Night                  1742 commits        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌞 Morning                893 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+🌆 Daytime                2301 commits        █████████░░░░░░░░░░░░░░░░   36.41 % 
+🌃 Evening                1624 commits        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+🌙 Night                  1502 commits        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Tuesday                  1566 commits        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Wednesday                903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Thursday                 892 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Friday                   785 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 1083 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Sunday                   808 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Monday                   1023 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Tuesday                  1430 commits        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Wednesday                731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Thursday                 718 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Friday                   687 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Saturday                 927 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Sunday                   804 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 ```
 
 
@@ -115,45 +115,45 @@ Sunday                   808 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 24 hrs 32 mins      █████████████████░░░░░░░░   68.29 % 
-JavaScript               4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Text                     3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Other                    2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Python                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Markdown                 17 hrs 57 mins      █████████████████░░░░░░░░   67.81 % 
+JavaScript               4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Text                     2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Claude Code              35 hrs 56 mins      █████████████████████████   100.00 % 
+Claude Code              26 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-appstein                 24 hrs 47 mins      █████████████████░░░░░░░░   68.99 % 
-nudge-systems            10 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
-whatsapp                 29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-documents                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-DAILY                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+appstein                 17 hrs              ████████████████░░░░░░░░░   64.27 % 
+nudge-systems            8 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.51 % 
+whatsapp                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+documents                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+finance-tracker          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  35 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 56 mins (100.0%)
+⏱ AI Coding Time: 26 hrs 28 mins (100.0%)
 
-✍️ 3,439 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,481 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 105,873,145 Input Tokens, 3,562,426 Output Tokens
+🔤 54,368,883 Input Tokens, 2,301,862 Output Tokens
 
-💵 $924.98 Estimated AI Cost This Week
+💵 $544.50 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 319 AI Prompts
+🧠 16 AI Sessions, 241 AI Prompts
 
-Opus                     3,642 lines         █████████████████████████   100.00 % 
+Opus                     2,550 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,766 characters per prompt
+📚 Verbose Prompter — average 4,905 characters per prompt
 🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -175,7 +175,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2026 16:25:17 UTC
+ Last Updated on 22/10/2026 02:39:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
