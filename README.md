@@ -74,13 +74,13 @@ const uttam = {
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-429%20hrs%2026%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 2,163 Contributions in the Year 2026
+> 🏆 2,330 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +91,21 @@ const uttam = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1035 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-🌆 Daytime                2810 commits        █████████░░░░░░░░░░░░░░░░   34.73 % 
-🌃 Evening                2056 commits        ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-🌙 Night                  2189 commits        ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌞 Morning                1077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌆 Daytime                2982 commits        █████████░░░░░░░░░░░░░░░░   34.44 % 
+🌃 Evening                2219 commits        ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+🌙 Night                  2380 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1390 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Tuesday                  1753 commits        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Wednesday                879 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Thursday                 918 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Friday                   907 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 1278 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Sunday                   965 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Monday                   1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Tuesday                  1819 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+Wednesday                962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Thursday                 1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Friday                   962 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Sunday                   975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 ```
 
 
@@ -161,11 +161,11 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     15 repos            █████████░░░░░░░░░░░░░░░░   34.88 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Dart                     15 repos            █████████░░░░░░░░░░░░░░░░   34.09 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
@@ -175,7 +175,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/UTTAM-VAGHASIA/UTTAM-VAGHASIA/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:30:33 UTC
+ Last Updated on 26/10/2026 18:03:58 UTC
 <!--END_SECTION:waka-->
 
 ## 🎯 Current Goals
